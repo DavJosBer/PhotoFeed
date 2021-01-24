@@ -1,0 +1,41 @@
+body {
+    background-color: #ddd;
+}
+
+img {
+    display: block;
+}
+
+.wrapper {
+    width: 1500px;
+    margin: 0 auto;
+}
+
+.head {
+    background-color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.card {
+    background-color: #fff;
+    width: 800px;
+    margin: 1rem auto 2rem;
+}
+
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 1rem;
+}
+
+.text {
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.descript {
+    padding: 0.5rem 1rem;
+}
